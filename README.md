@@ -1,2 +1,2 @@
 # hello-world
-this i smy first edit on Git!
+this is my first edit on Git!
